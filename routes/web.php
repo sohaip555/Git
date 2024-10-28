@@ -7,3 +7,9 @@ Route::get('/', function () {
 });
 
 
+
+get('about', function ()
+{
+
+});
+
