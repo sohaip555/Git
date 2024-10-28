@@ -8,17 +8,4 @@ Route::get('/', function () {
 
 
 
-get('about', function ()
-{
-
-});
-
-get('about', function ()
-{
-
-});
-get('about', function ()
-{
-
-});
 
